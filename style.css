@@ -1,0 +1,47 @@
+.d1{
+    height: auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;    
+}
+
+.d2{
+    text-align: center;
+}
+
+input{
+    width: 300px;
+}
+
+.d4{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin-top: 10px;
+   
+}
+
+.d5{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;    
+    padding: 10px;
+}
+
+button{
+    border: none;
+    background-color: lightseagreen;
+    margin: 10px;
+    color: Blue;
+}
+
+h4{
+    color: rgb(37, 18, 210);
+}
+
+i{
+    color: coral;
+}
